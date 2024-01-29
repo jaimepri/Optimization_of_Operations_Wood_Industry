@@ -1,4 +1,4 @@
 # Comprehensive Optimization of Operations in the Wood Industry
 Welcome to this notebook! The primary objective here is to explore and solve a series of linear optimization problems specifically tailored to the Wood and Furniture Industry. Through this journey, we’ll delve into various real-world scenarios where optimization can lead to increased efficiency, reduced waste, and overall improved performance in the industry. By understanding and applying linear optimization techniques, we aim to provide valuable insights that can help make strategic decisions in the production, design, and distribution processes.
 
-Whether you’re a seasoned professional in the industry or a curious learner, this notebook offers a practical and engaging way to understand and apply linear optimization in the context of the Wood and Furniture Industry. Let’s get started!
+Whether you’re a seasoned professional in the industry or a curious learner, this notebook offers a practical and engaging way to understand and apply linear optimization in the context of the Wood and Furniture Industry. Let’s get started
